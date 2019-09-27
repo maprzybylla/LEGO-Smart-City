@@ -1,0 +1,13 @@
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.out
+main.pdf
+*.run.xml
+*.synctex.gz
+*.log
+*conflicted copy*
+.DS_Store
